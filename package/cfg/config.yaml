@@ -283,8 +283,6 @@ target_mapping:
     - "policies"
   "aks-1.0":
    - "node"
-   - "managedservices"
-   - "policies"  
   "rke2-cis-1.6-hardened":
     - "master"
     - "node"
